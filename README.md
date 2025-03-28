@@ -11,7 +11,7 @@
 
 <img width="24px" height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif"/> I’m currently learning front-end development.
 
-<img width="24px" height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif"/> 2024 Goals: create a some projects and find an internship.
+<img width="24px" height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif"/> 2025 Goals: create a some projects and find an internship.
 
  
 
