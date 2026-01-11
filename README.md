@@ -29,3 +29,5 @@
 <img width="240px" height="240px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif">
   
 Good bye!! <img width="24px" height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif"/>
+
+![Metrics](https://metrics.lecoq.io/Cavisc?template=classic&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&introduction=false&introduction.title=true&config.timezone=America%2FSao_Paulo)
